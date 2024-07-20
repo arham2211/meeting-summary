@@ -1,0 +1,12 @@
+openai
+moviepy
+tensorflow
+transformers
+torch 
+torchvision 
+torchaudio
+tf-keras
+ffmpeg-python
+pydub
+reportlab
+fpdf
